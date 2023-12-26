@@ -24,24 +24,4 @@ public class CheckValidNumber {
 
 	}
 }
-//		Scanner sc = new Scanner(System.in);
-//		System.out.println("Enter the Number");
-//		int number = sc.nextInt();
-//		int[] rs = new int[number];
-//		System.out.println("Enter the "+number+" digit number");
-//		for(int i = 0 ; i < rs.length ; i++) {
-//			rs[i] = sc.nextInt();
-//		}
-//		checkValidNumber(rs);
-//	}
-//	static void checkValidNumber(int[] rs) {
-//		for(int i = 0 ; i < rs.length; i++) {
-//			if((rs.length==10) && (rs[0]==6||rs[0]==7||rs[0]==8||rs[0]==9))
-//				System.out.println("valid number");
-//			else
-//				System.out.println("Invalid number");
-//		}
 
-//	}
-//
-//}
